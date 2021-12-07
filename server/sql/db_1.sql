@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS `redemrp`;
 CREATE DATABASE IF NOT EXISTS `redemrp`;
 USE `redemrp`;
 
